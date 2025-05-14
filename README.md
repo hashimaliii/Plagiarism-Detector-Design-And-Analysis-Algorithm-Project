@@ -17,8 +17,8 @@ A robust and efficient plagiarism detection system for source code, built with P
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/plagiarism-detection.git
-cd plagiarism-detection
+git clone https://github.com/hashimaliii/Pledge-Detector-Design-And-Analysis-Algorithm-Project.git
+cd Pledge-Detector-Design-And-Analysis-Algorithm-Project
 ```
 
 2. Create a virtual environment (recommended):
